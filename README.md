@@ -1,0 +1,3 @@
+Download Link: https://assignmentchef.com/product/solved-module-1-assignment-605-451-principles-of-computational-biology
+<br>
+1. What is the central dogma of molecular biology? (50 points)2. In theory, how many codons can you have given that there are only 4 different types of nucleotides(ATGC) and each codon contains 3 nucleotides? (25 points)3. We know that the human genome contains about 3 billion nucleotides. Suppose all 3 billionnucleotides are on one single strand of DNA; how many different sequences can you have, intheory? (25 points)
